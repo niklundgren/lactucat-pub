@@ -82,3 +82,7 @@ hdf5 looks like its going to be our friend. It can get to compression ratios of 
 2. Write preprocessing tools 
 
 ...
+
+
+# final ps
+theres more info about ideas and stuff to do in each readme in the folders!
