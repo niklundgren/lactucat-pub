@@ -15,7 +15,7 @@ though if you have pip you can also run `pip install .` (which uses the same bac
 We reccomend you create a virtual environment with miniconda or pyenv or virtualenv
 to install the required packages.
 
-### Running the project
+### Running the project - Front End (in progress)
 
 Once you have created the project, install dependencies and run the project in development mode:
 
